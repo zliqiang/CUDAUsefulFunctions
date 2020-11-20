@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/zlq/CLionProjects/CudaStudy/cuda_useful_function/CUDAUsefulFunciton.h
+stdio.h
+-
+iostream
+-
+cuda.h
+-
+sys/time.h
+-
+time.h
+-
+
+/home/zlq/CLionProjects/CudaStudy/cuda_useful_function/main.cu
+iostream
+-
+CUDAUsefulFunciton.h
+/home/zlq/CLionProjects/CudaStudy/cuda_useful_function/CUDAUsefulFunciton.h
+

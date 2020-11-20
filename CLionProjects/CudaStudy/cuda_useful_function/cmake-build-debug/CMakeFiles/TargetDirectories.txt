@@ -1,0 +1,3 @@
+/home/zlq/CLionProjects/CudaStudy/cuda_useful_function/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zlq/CLionProjects/CudaStudy/cuda_useful_function/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zlq/CLionProjects/CudaStudy/cuda_useful_function/cmake-build-debug/CMakeFiles/cuda_useful_function.dir
